@@ -1,0 +1,2 @@
+webpackJsonp([0],{wUZA:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement,e=this._self._c||t;return e("section",{staticClass:"brands"},[e("h2",[this._v(this._s(this.my))])])},staticRenderFns:[]};var r=n("VU/8")({name:"home",data:function(){return{my:"Я Саетгареев Тимур Рустамович"}}},s,!1,function(t){n("x2/8")},null,null);e.default=r.exports},"x2/8":function(t,e){}});
+//# sourceMappingURL=0.41cf5fb5d37815a57c42.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([1],{lxPB:function(t,e){},uwSr:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement,e=this._self._c||t;return e("section",{staticClass:"projects"},[e("h2",[this._v(this._s(this.content))])])},staticRenderFns:[]};var r=n("VU/8")({name:"home",data:function(){return{content:"Мои разработки"}}},s,!1,function(t){n("lxPB")},null,null);e.default=r.exports}});
+//# sourceMappingURL=1.7ba5fc74fdc237156ab9.js.map
